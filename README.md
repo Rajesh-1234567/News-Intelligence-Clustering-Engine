@@ -1,1 +1,2 @@
 # News-Intelligence-Clustering-Engine
+A system that ingests real-time news articles, automatically identifies their company and sector, and clusters them into unique, event-level stories using similarity-based analysis within a rolling time window. The engine removes outdated articles, deduplicates repetitive coverage by selecting a single representative article per story, and produces clean company-level and sector-level views of market-relevant events with low-latency and scalable performance.
